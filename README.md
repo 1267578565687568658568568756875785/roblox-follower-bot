@@ -1,6 +1,6 @@
 # Roblox Follow Bot
 
-[Roblox Follow Bot](https://github.com/robloxianofc/roblox-follower-bot/assets/115414648/edee2cc6-9e39-4e10-a3e3-e858aa4fff78)
+![image](https://github.com/robloxianofc/roblox-follower-bot/assets/115414648/e72ce825-e10a-491f-af27-e751abefabfe)
 
 Welcome to the Roblox Follow Bot project! This open-source Python bot allows you to quickly and safely automate the process of following users on Roblox. Please note that using automated bots or scripts on Roblox may violate their terms of service, so proceed with caution and use this tool responsibly.
 
