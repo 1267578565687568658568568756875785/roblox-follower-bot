@@ -6,7 +6,7 @@ Welcome to the Roblox Follow Bot project! This open-source Python bot allows you
 
 ## Features
 
-- Fast and efficient following of Roblox users.
+- Fast and efficient generation of Roblox accounts.
 - Written in Python, making it easy to understand and modify.
 - Open-source, so you can review the code and contribute to the project.
 - Proxy support for enhanced safety and privacy.
