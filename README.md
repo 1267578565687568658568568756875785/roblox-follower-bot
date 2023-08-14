@@ -21,6 +21,6 @@ Using automated bots or scripts on Roblox can potentially violate their terms of
 
 ## Support
 
-If you want to use the bot or have any questions, feel free to reach out to the project owners on our Discord server: [[discord.gg/YGsykRXhte](https://discord.gg/YGsykRXhte)](https://discord.gg/4TD8VJmaZx)
+If you want to use the bot or have any questions, feel free to reach out to the project owners on our Discord server: https://discord.gg/4TD8VJmaZx.
 
 ⭐ Star the project if you find it useful and would like to support its development! ⭐
